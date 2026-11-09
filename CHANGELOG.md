@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-11-09
+
 ### Added
 
 - `greet()`: `punctuation` 인수를 추가하여 고정된 느낌표 대신 문장 부호를 지정할 수 있도록 개선.
