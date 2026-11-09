@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- `greet()`: `punctuation` 인수를 추가하여 고정된 느낌표 대신 문장 부호를 지정할 수 있도록 개선.
+
+### Fixed
+
+- `greet()`: 빈 문자열이나 공백 이름 시 빈 인사말(`Hello, !`) 대신 `world`(`Hello, world!`)를 사용하도록 수정.
+
 ## [0.1.0] - 2026-11-09
 
 ### Added
